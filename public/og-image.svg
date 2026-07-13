@@ -1,0 +1,28 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#07111F"/>
+  <path d="M0 88H1200M0 188H1200M0 288H1200M0 388H1200M0 488H1200M108 0V630M258 0V630M408 0V630M558 0V630M708 0V630M858 0V630M1008 0V630" stroke="white" stroke-opacity=".08"/>
+  <path d="M-20 118C230 5 409 212 640 108C848 14 1001 62 1220 170V0H-20V118Z" fill="url(#a)" fill-opacity=".58"/>
+  <path d="M-20 537C236 428 431 633 665 510C868 404 1004 456 1220 520V630H-20V537Z" fill="url(#b)" fill-opacity=".5"/>
+  <text x="96" y="254" fill="white" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800">Yash Kalsariya</text>
+  <text x="100" y="326" fill="#A5B4FC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Full Stack Developer</text>
+  <text x="100" y="382" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="26">Java · Python · MERN · TypeScript · Azure</text>
+  <rect x="906" y="188" width="166" height="166" rx="48" fill="url(#c)"/>
+  <text x="989" y="291" text-anchor="middle" fill="white" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="800">YK</text>
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1200" y2="188" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5"/>
+      <stop offset=".54" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0" y1="430" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10B981"/>
+      <stop offset=".5" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <linearGradient id="c" x1="906" y1="188" x2="1072" y2="354" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset=".55" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+</svg>
