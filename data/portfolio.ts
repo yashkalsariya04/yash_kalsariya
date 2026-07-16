@@ -86,34 +86,6 @@ export const experiences: Experience[] = [
 
 export const projects: Project[] = [
   {
-    title: "MERN Commerce Platform",
-    description: "A polished full-stack commerce experience with product browsing, authentication, cart flows, and admin-ready architecture.",
-    features: ["Responsive storefront", "Secure API structure", "Reusable product modules"],
-    technologies: ["React", "Node.js", "Express.js", "MongoDB", "TypeScript"],
-    github: "https://github.com/yashkalsariya04",
-    demo: "#contact",
-    gradient: "from-indigo-500 via-sky-500 to-cyan-400"
-  },
-  {
-    title: "Azure Analytics Dashboard",
-    description: "A dashboard concept inspired by Azure data analytics and Power BI workflows, designed for clean executive reporting.",
-    features: ["Metric cards", "Data visualization", "Cloud-ready structure"],
-    technologies: ["Azure", "Power BI", "Python", "TypeScript"],
-    github: "https://github.com/yashkalsariya04",
-    demo: "#contact",
-    gradient: "from-emerald-400 via-teal-500 to-blue-500"
-  },
-  {
-    title: "Developer Knowledge Hub",
-    description: "A collaborative learning platform concept for sharing software development notes, tutorials, and project references.",
-    features: ["Searchable content", "Author profiles", "Modern markdown workflow"],
-    technologies: ["Next.js", "React", "Tailwind CSS", "GitHub"],
-    github: "https://github.com/yashkalsariya04",
-    demo: "#contact",
-    gradient: "from-violet-500 via-fuchsia-500 to-rose-400"
-  }
-  ,
-  {
     title: "The Bill Book",
     description: "A lightweight billing and invoicing web app for tracking sales, customers, and invoices.",
     features: ["Create and manage invoices", "Customer and product management", "Exportable PDF receipts"],
