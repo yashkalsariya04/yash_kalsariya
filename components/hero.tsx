@@ -79,7 +79,7 @@ export function Hero() {
           <div className="absolute inset-0 rounded-[2rem] bg-gradient-to-br from-indigo-500 via-cyan-400 to-emerald-400 blur-2xl opacity-40" />
           <div className="glass relative h-full overflow-hidden rounded-[2rem] p-3">
             <Image
-              src="/profile-placeholder.svg"
+              src="/Image.jpeg"
               alt="Yash Kalsariya profile placeholder"
               width={900}
               height={1100}

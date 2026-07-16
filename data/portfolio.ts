@@ -112,6 +112,61 @@ export const projects: Project[] = [
     demo: "#contact",
     gradient: "from-violet-500 via-fuchsia-500 to-rose-400"
   }
+  ,
+  {
+    title: "The Bill Book",
+    description: "A lightweight billing and invoicing web app for tracking sales, customers, and invoices.",
+    features: ["Create and manage invoices", "Customer and product management", "Exportable PDF receipts"],
+    technologies: ["React", "Node.js", "Express.js", "MongoDB"],
+    github: "https://github.com/yashkalsariya04/The-Bill-Book.git",
+    demo: "#contact",
+    gradient: "from-sky-500 via-indigo-500 to-violet-500"
+  },
+  {
+    title: "Auction ARC",
+    description: "An auction platform prototype supporting bidding workflows, listings, and real-time updates.",
+    features: ["Item listings and bidding", "Real-time bid updates", "User profiles and history"],
+    technologies: ["React", "Socket.io", "Node.js", "MongoDB"],
+    github: "https://github.com/yashkalsariya04/Auction-ARC.git",
+    demo: "#contact",
+    gradient: "from-emerald-400 via-teal-500 to-cyan-500"
+  },
+  {
+    title: "Travel Planer",
+    description: "A travel planning tool to build itineraries, manage destinations, and share trip plans with others.",
+    features: ["Itinerary builder", "Destination search", "Shareable trip links"],
+    technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    github: "https://github.com/yashkalsariya04/Travel-Planer.git",
+    demo: "#contact",
+    gradient: "from-amber-400 via-orange-400 to-rose-400"
+  },
+  {
+    title: "Waether App",
+    description: "A simple weather application demonstrating API integration and responsive UI for current conditions and forecasts.",
+    features: ["Current weather and 7-day forecast", "Location search", "Clean, responsive UI"],
+    technologies: ["React", "Fetch API", "CSS"],
+    github: "https://github.com/yashkalsariya04/Waether-App.git",
+    demo: "#contact",
+    gradient: "from-cyan-400 via-sky-400 to-indigo-500"
+  },
+  {
+    title: "Trident",
+    description: "A utility toolkit project showcasing reusable components, CLI helpers, and small developer tools.",
+    features: ["Reusable UI components", "Developer CLI utilities", "Modular architecture"],
+    technologies: ["TypeScript", "Node.js", "React"],
+    github: "https://github.com/yashkalsariya04/Trident.git",
+    demo: "#contact",
+    gradient: "from-emerald-300 via-lime-400 to-yellow-400"
+  },
+  {
+    title: "PhotoFlow",
+    description: "A photo gallery and management app with uploads, albums, and basic editing workflows.",
+    features: ["Upload and organize photos", "Album management", "Basic image editing tools"],
+    technologies: ["React", "Firebase", "Tailwind CSS"],
+    github: "https://github.com/yashkalsariya04/PhotoFlow.git",
+    demo: "#contact",
+    gradient: "from-pink-400 via-fuchsia-500 to-purple-500"
+  }
 ];
 
 export const education = [
